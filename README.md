@@ -1,8 +1,8 @@
-# Inventory Management Web Application
+# Inventory Management Web Application - InvenTrack
 
 ## Overview
 
-The "Inventrack" is a Inventory Management Web Application is designed to streamline the process of managing and tracking inventory. Built with React.js, it offers a modern dark-themed interface that supports essential functionalities such as editing, deleting, searching, and navigating through inventory items. Equipped with responsive design and smooth animations, the application delivers a smooth user experience on various devices.
+The "InvenTrack" is a Inventory Management Web Application is designed to streamline the process of managing and tracking inventory. Built with React.js, it offers a modern dark-themed interface that supports essential functionalities such as editing, deleting, searching, and navigating through inventory items. Equipped with responsive design and smooth animations, the application delivers a smooth user experience on various devices.
 
 
 ---
